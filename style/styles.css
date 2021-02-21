@@ -1,0 +1,29 @@
+.main{
+    background-color: rgb(35, 37, 51);
+}
+
+
+.Soz{
+    border-radius: 13px;
+    background-color: rgb(48, 73, 102);
+    width: 300px;
+    height: 250px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+.Soz .terms{
+    padding-top: 100px;
+}
+
+.button{
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+.button .icbutton{
+    background-color: rgb(45, 29, 119);
+   
+
+   
+}
